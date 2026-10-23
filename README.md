@@ -26,6 +26,7 @@ Theory:
 •	The circuit can be used at the places like bed room where the person may  not  have  to  travel for switching off the light to the place from where the light is switched on.
 •	Two  numbers  of  two-way  switches  are  used  for  the  purpose.  The supply is given to the switch at the short circuited terminals.
 •	The  connection  to  the  light  point  is  taken  from  the  similar  short circuited  terminal  of  the   second  switch.   Order  two  independent terminals of each circuit are connected through  cables 
+
 PROCEDURE
 •  Place the accessories on the wiring board as per the circuit diagram.
 •  Place the P.V.C pipe and insert two wires into the P.V.C pipe.
@@ -39,12 +40,27 @@ switch2.
 •  Circuit is tested for all possible combination of switch positions.
 
 
-Direct connection: CIRCUIT DIAGRAM: 
+Direct connection: 
+CIRCUIT DIAGRAM: 
+
+<img width="1920" height="1080" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/72f64766-8d4b-4cb3-b49a-f02f3c27b878" />
+
+
+
 Tabulation:1
+
+<img width="1599" height="1378" alt="S1" src="https://github.com/user-attachments/assets/ccc33ee2-af4b-4670-80ae-6854d3916d8e" />
+
+
 	
-Cross connection: CIRCUIT DIAGRAM:
+Cross connection: 
+CIRCUIT DIAGRAM:
+
+<img width="1920" height="1080" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/116afc20-d59a-48cf-8934-dddc6ba8b91f" />
 
 Tabulation:2
+
+<img width="1600" height="813" alt="S2" src="https://github.com/user-attachments/assets/fc24db5c-fcf0-4bf6-b190-5b46b6724515" />
 
 RESULT:
 Thus the staircase wiring is connected and tested.
